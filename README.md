@@ -28,3 +28,36 @@ Daha fazla bilgi ve görseller için çalışmanın orijinal sayfasını ziyaret
 
 🔗 [Kaggle Projesi](https://www.kaggle.com/code/bahridgr/cafe-sales-data-preprocessing-and-visualization)
 
+*******************************************************************************************************************************
+*******************************************************************************************************************************
+*******************************************************************************************************************************
+
+# Cafe Sales Data Analysis
+
+This project aims to analyse the sales data of a café. By using data pre-processing and visualisation techniques, the sales performance of the café was evaluated and customer behaviours were tried to be understood.
+
+## Content of the Study
+
+### Data Preprocessing
+- Raw data were cleaned, missing or incorrect data were corrected and made suitable for analysis.
+
+### Data Analysis and Visualisation
+- Sales trends, best-selling products and sales performance in specific time periods are analysed.
+
+## Sample Analyses
+
+### Sales Trends
+- Sales increases or decreases in certain periods are analysed.
+
+### Product Performance
+- The most popular products were identified and their sales figures were analysed.
+
+### Time Period Analysis
+- Sales densities at certain times of the day or on certain days of the week were analysed.
+
+These analyses help to understand which products of the café are more popular, during which time periods more sales are made and overall sales performance. This information provides valuable insights for inventory management, marketing strategies and operational decisions.
+
+## Detailed Review
+For more information and visuals, you can visit the original page of the work:
+
+🔗 [Kaggle Project](https://www.kaggle.com/code/bahridgr/cafe-sales-data-preprocessing-and-visualization)
